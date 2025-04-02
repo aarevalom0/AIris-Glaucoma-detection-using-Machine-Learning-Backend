@@ -1,7 +1,7 @@
 fastapi
 uvicorn[standard]
 scikit-image
-cv2
+opencv-python
 
 
 
