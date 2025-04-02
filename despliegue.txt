@@ -2,3 +2,4 @@ sudo apt install python3-pip
 git clone https://github.com/aarevalom0/AIris-Glaucoma-detection-using-Machine-Learning-Backend.git
 cd AIris-Glaucoma-detection-using-Machine-Learning-Backend/
 pip install -r requirements.txt
+
