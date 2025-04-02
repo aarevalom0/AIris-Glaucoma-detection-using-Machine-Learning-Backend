@@ -2,6 +2,7 @@ fastapi
 uvicorn[standard]
 scikit-image
 opencv-python
+joblib
 
 
 
