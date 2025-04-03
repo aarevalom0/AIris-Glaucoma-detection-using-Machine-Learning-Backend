@@ -15,7 +15,7 @@ app.add_middleware(
     allow_headers=["*"],  )
 
 @app.get("/predecir/{path}")
-def predecir(path:str):
+def predecir(path):
    path = "./Data/" + path
    model = AIris.AIrisModel()
    predicciones=model.make_prediction(path)
