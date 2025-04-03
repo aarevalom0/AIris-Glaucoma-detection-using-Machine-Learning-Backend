@@ -3,6 +3,7 @@ uvicorn[standard]
 scikit-image
 opencv-python
 joblib
+scikit-learn
 
 
 
