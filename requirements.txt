@@ -5,5 +5,5 @@ opencv-python
 joblib
 scikit-learn
 python-multipart
-
+fastapi-cors
 
