@@ -4,6 +4,7 @@ import numpy as np
 from skimage.color import rgb2gray
 from skimage.feature import hog
 from sklearn.pipeline import Pipeline
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 class AIrisModel:
     def __init__(self):
         self.model=load("./assets/modelo.joblib")
